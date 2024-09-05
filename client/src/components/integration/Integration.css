@@ -1,0 +1,18 @@
+div {
+  padding: 0px;
+}
+input {
+  height: 30px;
+  width: 30%;
+}
+button {
+  height: 30px;
+  width: 20%;
+}
+.error {
+  color: red;
+  font-size: 10px;
+  display: block;
+  width: 100%;
+  margin-left: 10px;
+}

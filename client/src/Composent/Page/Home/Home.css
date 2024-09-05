@@ -1,0 +1,14 @@
+.accueil {
+  background-color: rgb(198, 199, 199);
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 260px;
+  margin-right: 200px;
+  width: 55%;
+  border-radius: 7px;
+}
+.logo {
+  width: 800px;
+  height: 250px;
+  margin-left: 30%;
+}

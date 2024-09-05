@@ -1,0 +1,32 @@
+body{
+    background: rgb(248, 249, 249 );
+}
+
+.cont{
+    width: 650px;
+    height: 200px;
+    margin-left: 10px;
+}
+.inputForm{
+    margin-top: 10px;
+}
+.form{
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   padding: 5px;
+   padding-right: 5px;
+   margin-left: 20px;
+   background-color: rgb(151, 151, 151);
+}
+
+.form2{
+    margin-left: 20px;
+    background-color: white;
+    padding: 15px;
+
+}
+.formule{
+    margin-left: 20px;
+    background-color: white;
+    
+}

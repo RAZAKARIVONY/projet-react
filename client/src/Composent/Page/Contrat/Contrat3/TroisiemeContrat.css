@@ -1,0 +1,54 @@
+.tableau1 {
+  display: none;
+}
+.tableau2 {
+  display: none;
+}
+
+.searchbar {
+  width: 95%;
+  height: 35px;
+  background-color: white;
+  border-radius: 05px;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin-top: 08px;
+  border: 1px;
+}
+
+.searchIcon {
+  font-size: 25px !important;
+  margin-right: 15px;
+}
+
+.searchInput {
+  border: none;
+  width: 92%;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.bton {
+  background-color: #cef1aa;
+  width: 100px;
+  margin-left: 10px;
+  color: black;
+}
+.topbarContainer {
+  height: 50px;
+  width: 100%;
+  display: flex;
+}
+.topbarCenter {
+  margin-left: 90px;
+}
+.topbarRight {
+  margin-left: 10px;
+}
+.news {
+  width: 120px;
+}
+.generate {
+  width: 120px;
+}
